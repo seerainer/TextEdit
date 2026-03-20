@@ -1801,6 +1801,15 @@
           ]
         },
         {
+          "name": "monitorEnumProc",
+          "parameterTypes": [
+            "long",
+            "long",
+            "long",
+            "long"
+          ]
+        },
+        {
           "name": "msgFilterProc",
           "parameterTypes": [
             "long",
